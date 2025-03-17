@@ -15,8 +15,8 @@ A Python-based Telegram auto-texting utility that sends messages at an exact sch
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/telegram-auto-sender.git
-   cd telegram-auto-sender
+   git clone https://github.com/tanishqkt03/Telegram-auto-sender.git
+   cd Telegram-auto-sender
    ```
 
 2. **Install dependencies**:
