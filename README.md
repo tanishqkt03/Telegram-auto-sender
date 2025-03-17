@@ -1,5 +1,5 @@
 
-# Telegram Auto Texter
+# Telegram Auto Sender
 
 A Python-based Telegram auto-texting utility that sends messages at an exact scheduled time with millisecond precision. It includes a GUI for user-friendly scheduling.
 
@@ -15,8 +15,8 @@ A Python-based Telegram auto-texting utility that sends messages at an exact sch
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/telegram-auto-texter.git
-   cd telegram-auto-texter
+   git clone https://github.com/yourusername/telegram-auto-sender.git
+   cd telegram-auto-sender
    ```
 
 2. **Install dependencies**:
